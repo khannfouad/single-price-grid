@@ -136,6 +136,14 @@
   border-radius: 5px;
   background-color: var(--clr-secondary);
   box-shadow: 0.5px 0.5px 15px 1px hsl(179, 79%, 32%);
+  border: 3px solid var(--clr-secondary);
+}
+
+a:hover,
+a:focus{
+  background-color: transparent;
+  border: 3px solid var(--clr-secondary);
+  color: var(--clr-secondary);
 }
 
 .last__box{
