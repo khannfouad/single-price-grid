@@ -162,7 +162,7 @@ a:focus{
   }
 
   .container{
-    max-width: 750px;
+    max-width: 650px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 
